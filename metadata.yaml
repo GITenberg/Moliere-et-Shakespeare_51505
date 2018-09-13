@@ -1,0 +1,27 @@
+_repo: Moliere-et-Shakespeare_51505
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stapfer, Paul
+    birthdate: 1840
+    deathdate: 1917
+    gutenberg_agent_id: '46438'
+    url: http://www.gutenberg.org/2009/agents/46438
+description: ''
+gutenberg_bookshelf: FR Théâtre
+gutenberg_issued: '2016-03-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51505'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Molière, 1622-1673 -- Criticism and interpretation'
+- !lcc 'PQ'
+- !lcsh 'Shakespeare, William, 1564-1616 -- Criticism and interpretation'
+- GITenberg
+title: Molière et Shakespeare
+url: http://www.gutenberg.org/ebooks/51505
